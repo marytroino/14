@@ -1,0 +1,19 @@
+body {
+  background-color: hsl(342, 90%, 10%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-family: Manrope;
+  text-align: center;
+}
+p {
+  font-size: 20px;
+  background-color: hsl(342, 90%, 20%);
+  padding: 20px;
+  border-radius: 5px;
+  color: white;
+}
+img {
+  border-radius: 5px;
+}
